@@ -1,0 +1,2 @@
+language = "bash"
+run = "javac Project_3.java && java Project_3"
